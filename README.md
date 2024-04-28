@@ -4,7 +4,7 @@
 Repository used to keep track of issues of my plugin RoseVehicles
 
 
-# Plugin development progress information 
+# Community Support
 Here you can see how we're progressing with current plans to fix bugs and add new features! 
 Share your thoughts and ideas in this Discord channel where we discuss everything from bugs, improvements and future updates.
 - [Discord](https://discord.gg/)
