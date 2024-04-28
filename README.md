@@ -1,6 +1,6 @@
 ![alt text](https://github.com/EmSockz/Issues-RoseVehicles/blob/main/image.png?raw=true)
 
-# <h3 style="text-align: center;">RoseVehicles Issues aligned</h3>
+# RoseVehicles Issues
 Repository used to keep track of issues of my plugin RoseVehicles
 
 # Plugin development progress information 
